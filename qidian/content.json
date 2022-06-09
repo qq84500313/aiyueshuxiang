@@ -1,0 +1,858 @@
+{
+  "sexData": [
+    {
+      "Data": [
+        {
+          "Name": "全部",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/",
+              "Name": "全部"
+            }
+          ]
+        },
+        {
+          "Name": "玄幻",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId21/",
+              "Name": "玄幻"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId21-subCateId8/",
+              "Name": "东方玄幻"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId21-subCateId73/",
+              "Name": "异世大陆"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId21-subCateId58/",
+              "Name": "王朝争霸"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId21-subCateId78/",
+              "Name": "高武世界"
+            }
+          ]
+        },
+        {
+          "Name": "奇幻",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId1/",
+              "Name": "奇幻"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId1-subCateId38/",
+              "Name": "现代魔法"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId1-subCateId62/",
+              "Name": "剑与魔法"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId1-subCateId201/",
+              "Name": "史诗奇幻"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId1-subCateId202/",
+              "Name": "神秘幻想"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId1-subCateId20092/",
+              "Name": "历史神话"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId1-subCateId20093/",
+              "Name": "另类幻想"
+            }
+          ]
+        },
+        {
+          "Name": "武侠",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId2/",
+              "Name": "武侠"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId2-subCateId5/",
+              "Name": "传统武侠"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId2-subCateId5/",
+              "Name": "武侠幻想"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId2-subCateId206/",
+              "Name": "国术无双"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId2-subCateId20099/",
+              "Name": "古武未来"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId2-subCateId20100/",
+              "Name": "武侠同人"
+            }
+          ]
+        },
+        {
+          "Name": "仙侠",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId22/",
+              "Name": "仙侠"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId22-subCateId18/",
+              "Name": "修真文明"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId22-subCateId44/",
+              "Name": "幻想修仙"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId22-subCateId64/",
+              "Name": "现代修真"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId22-subCateId207/",
+              "Name": "神话修真"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId22-subCateId20101/",
+              "Name": "古典仙侠"
+            }
+          ]
+        },
+        {
+          "Name": "都市",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId4/",
+              "Name": "都市"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId4-subCateId12/",
+              "Name": "都市生活"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId4-subCateId16/",
+              "Name": "都市异能"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId4-subCateId74/",
+              "Name": "异术超能"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId4-subCateId130/",
+              "Name": "青春校园"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId4-subCateId151/",
+              "Name": "娱乐明星"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId4-subCateId153/",
+              "Name": "商战职场"
+            }
+          ]
+        },
+        {
+          "Name": "现实",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId15/",
+              "Name": "现实"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId15-subCateId20104/",
+              "Name": "社会乡土"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId15-subCateId20105/",
+              "Name": "生活时尚"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId15-subCateId20106/",
+              "Name": "文学艺术"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId15-subCateId20107/",
+              "Name": "成功励志"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId15-subCateId20108/",
+              "Name": "青春文学"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId15-subCateId6/",
+              "Name": "爱情婚姻"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId15-subCateId209/",
+              "Name": "现实百态"
+            }
+          ]
+        },
+        {
+          "Name": "军事",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId6/",
+              "Name": "军事"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId6-subCateId54/",
+              "Name": "军旅生涯"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId6-subCateId65/",
+              "Name": "军事战争"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId6-subCateId80/",
+              "Name": "战争幻想"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId6-subCateId230/",
+              "Name": "抗战烽火"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId6-subCateId231/",
+              "Name": "谍战特工"
+            }
+          ]
+        },
+        {
+          "Name": "历史",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId5/",
+              "Name": "历史"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId5-subCateId22/",
+              "Name": "架空历史"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId5-subCateId48/",
+              "Name": "秦汉三国"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId5-subCateId220/",
+              "Name": "上古先秦"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId5-subCateId32/",
+              "Name": "历史传记"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId5-subCateId222/",
+              "Name": "两晋隋唐"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId5-subCateId223/",
+              "Name": "五代十国"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId5-subCateId224/",
+              "Name": "两宋元明"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId5-subCateId225/",
+              "Name": "清史民国"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId5-subCateId226/",
+              "Name": "外国历史"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId5-subCateId20094/",
+              "Name": "民间传说"
+            }
+          ]
+        },
+        {
+          "Name": "游戏",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId7/",
+              "Name": "游戏"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId7-subCateId7/",
+              "Name": "电子竞技"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId7-subCateId70/",
+              "Name": "虚拟网游"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId7-subCateId240/",
+              "Name": "游戏异界"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId7-subCateId20102/",
+              "Name": "游戏系统"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId7-subCateId20103/",
+              "Name": "游戏主播"
+            }
+          ]
+        },
+        {
+          "Name": "体育",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId8/",
+              "Name": "体育"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId8-subCateId28/",
+              "Name": "篮球运动"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId8-subCateId55/",
+              "Name": "体育赛事"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId8-subCateId82/",
+              "Name": "足球运动"
+            }
+          ]
+        },
+        {
+          "Name": "科幻",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId9/",
+              "Name": "科幻"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId9-subCateId21/",
+              "Name": "古武机甲"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId9-subCateId25/",
+              "Name": "未来世界"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId9-subCateId68/",
+              "Name": "星际文明"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId9-subCateId250/",
+              "Name": "超级科技"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId9-subCateId251/",
+              "Name": "时空穿梭"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId9-subCateId252/",
+              "Name": "进化变异"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId9-subCateId253/",
+              "Name": "末世危机"
+            }
+          ]
+        },
+        {
+          "Name": "诸天无限",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId20109/",
+              "Name": "诸天无限"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId20109-subCateId20110/",
+              "Name": "无限"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId20109-subCateId20111/",
+              "Name": "诸天"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId20109-subCateId20112/",
+              "Name": "综漫"
+            }
+          ]
+        },
+        {
+          "Name": "悬疑",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId10-subCateId20112/",
+              "Name": "悬疑"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId10-subCateId26/",
+              "Name": "诡秘悬疑"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId10-subCateId35/",
+              "Name": "奇妙世界"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId10-subCateId57/",
+              "Name": "侦探推理"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId10-subCateId260/",
+              "Name": "探险生存"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId10-subCateId20095/",
+              "Name": "古今传奇"
+            }
+          ]
+        },
+        {
+          "Name": "轻小说",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId12/",
+              "Name": "轻小说"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId12-subCateId60/",
+              "Name": "原生幻想"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId12-subCateId66/",
+              "Name": "恋爱日常"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId12-subCateId281/",
+              "Name": "衍生同人"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId12-subCateId282/",
+              "Name": "搞笑吐槽"
+            }
+          ]
+        },
+        {
+          "Name": "短篇",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/all/chanId20076/",
+              "Name": "短篇"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId20076-subCateId20097/",
+              "Name": "诗歌散文"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId20076-subCateId20098/",
+              "Name": "人物传记"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId20076-subCateId20075/",
+              "Name": "影视剧本"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId20076-subCateId20077/",
+              "Name": "评论文集"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId20076-subCateId20078/",
+              "Name": "生活随笔"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId20076-subCateId20079/",
+              "Name": "美文游记"
+            },
+            {
+              "Value": "https://www.qidian.com/all/chanId20076-subCateId20096/",
+              "Name": "短篇小说"
+            }
+          ]
+        }
+      ],
+      "sex": "男频"
+    },
+    {
+      "Data": [
+        {
+          "Name": "全部",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/",
+              "Name": "全部"
+            }
+          ]
+        },
+        {
+          "Name": "古代言情",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId80/",
+              "Name": "古代言情"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId80-subCateId801/",
+              "Name": "古代情缘"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId80-subCateId802/",
+              "Name": "宫闱宅斗"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId80-subCateId803/",
+              "Name": "经商种田"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId80-subCateId804/",
+              "Name": "古典架空"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId80-subCateId805/",
+              "Name": "女尊王朝"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId80-subCateId806/",
+              "Name": "穿越奇情"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId80-subCateId30094/",
+              "Name": "西方时空"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId80-subCateId30095/",
+              "Name": "清穿民国"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId80-subCateId30096/",
+              "Name": "上古蛮荒"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId80-subCateId30097/",
+              "Name": "热血江湖"
+            }
+          ]
+        },
+        {
+          "Name": "仙侠奇缘",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId81/",
+              "Name": "仙侠奇缘"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId81-subCateId810/",
+              "Name": "武侠情缘"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId81-subCateId811/",
+              "Name": "古典仙侠"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId81-subCateId812/",
+              "Name": "现代修真"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId81-subCateId813/",
+              "Name": "远古洪荒"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId81-subCateId30093/",
+              "Name": "仙侣奇缘"
+            }
+          ]
+        },
+        {
+          "Name": "现代言情",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId82/",
+              "Name": "现代言情"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId82-subCateId821/",
+              "Name": "商战职场"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId82-subCateId822/",
+              "Name": "豪门世家"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId82-subCateId823/",
+              "Name": "都市生活"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId82-subCateId824/",
+              "Name": "婚恋情缘"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId82-subCateId825/",
+              "Name": "娱乐明星"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId82-subCateId827/",
+              "Name": "都市异能"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId82-subCateId828/",
+              "Name": "极道江湖"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId82-subCateId829/",
+              "Name": "民国情缘"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId82-subCateId30098/",
+              "Name": "异国情缘"
+            }
+          ]
+        },
+        {
+          "Name": "浪漫青春",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId83/",
+              "Name": "浪漫青春"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId83-subCateId831/",
+              "Name": "青春校园"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId83-subCateId832/",
+              "Name": "青春疼痛"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId83-subCateId833/",
+              "Name": "叛逆成长"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId83-subCateId834/",
+              "Name": "青春纯爱"
+            }
+          ]
+        },
+        {
+          "Name": "玄幻言情",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId84/",
+              "Name": "玄幻言情"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId84-subCateId841/",
+              "Name": "东方玄幻"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId84-subCateId844/",
+              "Name": "异世大陆"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId84-subCateId846/",
+              "Name": "西方奇幻"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId84-subCateId847/",
+              "Name": "远古神话"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId84-subCateId848/",
+              "Name": "异族恋情"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId84-subCateId849/",
+              "Name": "魔法幻情"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId84-subCateId30092/",
+              "Name": "异能超术"
+            }
+          ]
+        },
+        {
+          "Name": "悬疑推理",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId85/",
+              "Name": "悬疑推理"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId85-subCateId850/",
+              "Name": "推理侦探"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId85-subCateId851/",
+              "Name": "诡秘惊险"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId85-subCateId852/",
+              "Name": "悬疑探险"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId85-subCateId853/",
+              "Name": "奇妙世界"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId85-subCateId854/",
+              "Name": "神秘文化"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId85-subCateId30099/",
+              "Name": "幽情奇缘"
+            }
+          ]
+        },
+        {
+          "Name": "短篇",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId30083/",
+              "Name": "短篇"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId30083-subCateId30089/",
+              "Name": "短篇小说"
+            }
+          ]
+        },
+        {
+          "Name": "科幻空间",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId86/",
+              "Name": "科幻空间"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId86-subCateId864/",
+              "Name": "星际恋歌"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId86-subCateId866/",
+              "Name": "时空穿梭"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId86-subCateId862/",
+              "Name": "未来世界"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId86-subCateId867/",
+              "Name": "古武机甲"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId86-subCateId868/",
+              "Name": "超级科技"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId86-subCateId863/",
+              "Name": "进化变异"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId86-subCateId869/",
+              "Name": "末世危机"
+            }
+          ]
+        },
+        {
+          "Name": "游戏竞技",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId88/",
+              "Name": "游戏竞技"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId88-subCateId880/",
+              "Name": "电子竞技"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId88-subCateId881/",
+              "Name": "网游情缘"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId88-subCateId882/",
+              "Name": "游戏异界"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId88-subCateId883/",
+              "Name": "体育竞技"
+            }
+          ]
+        },
+        {
+          "Name": "轻小说",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId87/",
+              "Name": "轻小说"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId87-subCateId30100/",
+              "Name": "同人衍生"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId87-subCateId30101/",
+              "Name": "唯美幻想"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId87-subCateId30102/",
+              "Name": "萌系变身"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId87-subCateId30103/",
+              "Name": "恋爱日常"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId87-subCateId30104/",
+              "Name": "搞笑吐槽"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId87-subCateId30105/",
+              "Name": "古典衍生"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId87-subCateId30106/",
+              "Name": "影视衍生"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId87-subCateId30107/",
+              "Name": "动漫衍生"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId87-subCateId30108/",
+              "Name": "其他衍生"
+            }
+          ]
+        },
+        {
+          "Name": "现实生活",
+          "SubItems": [
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId30120/",
+              "Name": "现实生活"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId30120-subCateId30121/",
+              "Name": "家与情感"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId30120-subCateId30122/",
+              "Name": "行业人生"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId30120-subCateId30123/",
+              "Name": "探索科幻"
+            },
+            {
+              "Value": "https://www.qidian.com/mm/all/chanId30120-subCateId30124/",
+              "Name": "人文博览"
+            }
+          ]
+        }
+      ],
+      "sex": "女频"
+    }
+  ]
+}

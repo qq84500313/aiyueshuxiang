@@ -1,0 +1,2708 @@
+{
+  "sexData": [
+    {
+      "Data": [
+        {
+          "Name": "全部",
+          "SubItems": [
+            {
+              "Name": "全部\n",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_finish",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "玄幻",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "东方玄幻",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=东方玄幻&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=东方玄幻&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=东方玄幻&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=东方玄幻&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=东方玄幻&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=东方玄幻&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "王朝争霸",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=王朝争霸&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=王朝争霸&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=王朝争霸&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=王朝争霸&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=王朝争霸&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=王朝争霸&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "异世大陆",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=异世大陆&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=异世大陆&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=异世大陆&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=异世大陆&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=异世大陆&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=异世大陆&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "高武世界",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=高武世界&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=高武世界&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=高武世界&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=高武世界&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=高武世界&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=玄幻&sedCate=高武世界&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "武侠",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "传统武侠",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=传统武侠&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=传统武侠&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=传统武侠&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=传统武侠&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=传统武侠&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=传统武侠&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "国术无双",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=国术无双&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=国术无双&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=国术无双&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=国术无双&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=国术无双&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=国术无双&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "古武未来",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=古武未来&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=古武未来&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=古武未来&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=古武未来&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=古武未来&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=古武未来&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "武侠幻想",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=武侠幻想&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=武侠幻想&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=武侠幻想&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=武侠幻想&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=武侠幻想&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=武侠&sedCate=武侠幻想&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "NewKey": {
+            "Name": "仙侠",
+            "SubItems": [
+              {
+                "Name": "全部",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=全部&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=全部&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=全部&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=全部&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=全部&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=全部&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              },
+              {
+                "Name": "现代修真",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=现代修真&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=现代修真&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=现代修真&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=现代修真&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=现代修真&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=现代修真&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              },
+              {
+                "Name": "修真文明",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=修真文明&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=修真文明&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=修真文明&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=修真文明&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=修真文明&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=修真文明&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              },
+              {
+                "Name": "神话修真",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=神话修真&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=神话修真&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=神话修真&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=神话修真&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=神话修真&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=神话修真&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              },
+              {
+                "Name": "古典仙侠",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=古典仙侠&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=古典仙侠&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=古典仙侠&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=古典仙侠&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=古典仙侠&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=古典仙侠&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              },
+              {
+                "Name": "幻想修仙",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=幻想修仙&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=幻想修仙&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=幻想修仙&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=幻想修仙&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=幻想修仙&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=仙侠&sedCate=幻想修仙&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Name": "奇幻",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "现代魔法",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=现代魔法&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=现代魔法&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=现代魔法&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=现代魔法&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=现代魔法&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=现代魔法&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "黑暗幻想",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=黑暗幻想&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=黑暗幻想&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=黑暗幻想&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=黑暗幻想&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=黑暗幻想&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=黑暗幻想&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "剑与魔法",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=剑与魔法&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=剑与魔法&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=剑与魔法&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=剑与魔法&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=剑与魔法&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=剑与魔法&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "历史神话",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=历史神话&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=历史神话&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=历史神话&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=历史神话&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=历史神话&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=历史神话&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "史诗奇幻",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=史诗奇幻&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=史诗奇幻&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=史诗奇幻&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=史诗奇幻&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=史诗奇幻&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=史诗奇幻&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "另类幻想",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=另类幻想&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=另类幻想&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=另类幻想&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=另类幻想&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=另类幻想&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=奇幻&sedCate=另类幻想&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "科幻",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "古武机甲",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=古武机甲&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=古武机甲&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=古武机甲&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=古武机甲&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=古武机甲&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=古武机甲&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "时空穿梭",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=时空穿梭&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=时空穿梭&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=时空穿梭&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=时空穿梭&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=时空穿梭&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=时空穿梭&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "末世危机",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=末世危机&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=末世危机&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=末世危机&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=末世危机&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=末世危机&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=末世危机&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "进化变异",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=进化变异&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=进化变异&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=进化变异&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=进化变异&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=进化变异&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=进化变异&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "未来世界",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=未来世界&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=未来世界&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=未来世界&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=未来世界&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=未来世界&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=未来世界&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "星际文明",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=星际文明&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=星际文明&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=星际文明&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=星际文明&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=星际文明&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=科幻&sedCate=星际文明&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "都市",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "都市生活",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市生活&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市生活&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市生活&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市生活&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市生活&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市生活&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "青春校园",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=青春校园&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=青春校园&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=青春校园&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=青春校园&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=青春校园&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=青春校园&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "都市异能",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市异能&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市异能&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市异能&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市异能&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市异能&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=都市异能&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "娱乐明星",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=娱乐明星&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=娱乐明星&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=娱乐明星&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=娱乐明星&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=娱乐明星&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=娱乐明星&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "商战职场",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=商战职场&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=商战职场&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=商战职场&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=商战职场&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=商战职场&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=都市&sedCate=商战职场&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "历史",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "架空历史",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=架空历史&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=架空历史&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=架空历史&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=架空历史&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=架空历史&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=架空历史&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "历史传记",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=历史传记&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=历史传记&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=历史传记&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=历史传记&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=历史传记&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=历史传记&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "外国历史",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=外国历史&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=外国历史&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=外国历史&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=外国历史&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=外国历史&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=外国历史&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "秦汉三国",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=秦汉三国&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=秦汉三国&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=秦汉三国&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=秦汉三国&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=秦汉三国&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=秦汉三国&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "两宋元明",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两宋元明&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两宋元明&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两宋元明&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两宋元明&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两宋元明&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两宋元明&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "两晋隋唐",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两晋隋唐&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两晋隋唐&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两晋隋唐&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两晋隋唐&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两晋隋唐&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=两晋隋唐&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "五代十国",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=五代十国&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=五代十国&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=五代十国&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=五代十国&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=五代十国&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=五代十国&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "清史民国",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=清史民国&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=清史民国&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=清史民国&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=清史民国&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=清史民国&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=清史民国&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "上古先秦",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=上古先秦&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=上古先秦&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=上古先秦&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=上古先秦&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=上古先秦&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=历史&sedCate=上古先秦&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "民间传说",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "军事",
+          "SubItems": [
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事&rank=rank_hot",
+              "Name": "热搜榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事&rank=rank_good",
+              "Name": "好评榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事&rank=rank_finis",
+              "Name": "完结榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事&rank=rank_increase",
+              "Name": "蹿升榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事&rank=rank_new",
+              "Name": "新书榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事&rank=rank_update",
+              "Name": "勤更榜"
+            }
+          ]
+        },
+        {
+          "Name": "战争幻想",
+          "NewKey": [
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=战争幻想&rank=rank_hot",
+              "Name": "热搜榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=战争幻想&rank=rank_good",
+              "Name": "好评榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=战争幻想&rank=rank_finis",
+              "Name": "完结榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=战争幻想&rank=rank_increase",
+              "Name": "蹿升榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=战争幻想&rank=rank_new",
+              "Name": "新书榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=战争幻想&rank=rank_update",
+              "Name": "勤更榜"
+            }
+          ]
+        },
+        {
+          "Name": "谍战特工",
+          "NewKey": [
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=谍战特工&rank=rank_hot",
+              "Name": "热搜榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=谍战特工&rank=rank_good",
+              "Name": "好评榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=谍战特工&rank=rank_finis",
+              "Name": "完结榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=谍战特工&rank=rank_increase",
+              "Name": "蹿升榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=谍战特工&rank=rank_new",
+              "Name": "新书榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=谍战特工&rank=rank_update",
+              "Name": "勤更榜"
+            }
+          ]
+        },
+        {
+          "Name": "抗战特工",
+          "NewKey": [
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战特工&rank=rank_hot",
+              "Name": "热搜榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战特工&rank=rank_good",
+              "Name": "好评榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战特工&rank=rank_finis",
+              "Name": "完结榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战特工&rank=rank_increase",
+              "Name": "蹿升榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战特工&rank=rank_new",
+              "Name": "新书榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战特工&rank=rank_update",
+              "Name": "勤更榜"
+            }
+          ]
+        },
+        {
+          "Name": "抗战烽火",
+          "NewKey": [
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战烽火&rank=rank_hot",
+              "Name": "热搜榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战烽火&rank=rank_good",
+              "Name": "好评榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战烽火&rank=rank_finis",
+              "Name": "完结榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战烽火&rank=rank_increase",
+              "Name": "蹿升榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战烽火&rank=rank_new",
+              "Name": "新书榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=抗战烽火&rank=rank_update",
+              "Name": "勤更榜"
+            }
+          ]
+        },
+        {
+          "Name": "军旅生涯",
+          "NewKey": [
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军旅生涯&rank=rank_hot",
+              "Name": "热搜榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军旅生涯&rank=rank_good",
+              "Name": "好评榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军旅生涯&rank=rank_finis",
+              "Name": "完结榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军旅生涯&rank=rank_increase",
+              "Name": "蹿升榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军旅生涯&rank=rank_new",
+              "Name": "新书榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军旅生涯&rank=rank_update",
+              "Name": "勤更榜"
+            }
+          ]
+        },
+        {
+          "Name": "军事战争",
+          "NewKey": [
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事生涯&rank=rank_hot",
+              "Name": "热搜榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事生涯&rank=rank_good",
+              "Name": "好评榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事生涯&rank=rank_finis",
+              "Name": "完结榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事生涯&rank=rank_increase",
+              "Name": "蹿升榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事生涯&rank=rank_new",
+              "Name": "新书榜"
+            },
+            {
+              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=民国传说&sedCate=军事生涯&rank=rank_update",
+              "Name": "勤更榜"
+            }
+          ]
+        }
+      ],
+      "sex": "男"
+    },
+    {
+      "Data": [
+        {
+          "Name": "全部",
+          "SubItems": [
+            {
+              "Name": "全部\n",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_finish",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "现言",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "豪门世家",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=豪门世家&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=豪门世家&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=豪门世家&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=豪门世家&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=豪门世家&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=豪门世家&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "都市生活",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市生活&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市生活&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市生活&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市生活&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市生活&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市生活&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "婚恋情缘",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=现言&sedCate=婚恋情缘&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=现言&sedCate=婚恋情缘&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=现言&sedCate=婚恋情缘&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=现言&sedCate=婚恋情缘&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=现言&sedCate=婚恋情缘&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=male&cate=现言&sedCate=婚恋情缘&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "娱乐明星",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=娱乐明星&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=娱乐明星&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=娱乐明星&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=娱乐明星&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=娱乐明星&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=娱乐明星&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "都市异能",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市异能&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市异能&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市异能&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市异能&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市异能&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=都市异能&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "极道江湖",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=极道江湖&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=极道江湖&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=极道江湖&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=极道江湖&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=极道江湖&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=极道江湖&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "网游情缘",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=网游情缘&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=网游情缘&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=网游情缘&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=网游情缘&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=网游情缘&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=现言&sedCate=网游情缘&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "NewKey": {
+            "Name": "古言",
+            "SubItems": [
+              {
+                "Name": "全部",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=全部&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=全部&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=全部&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=全部&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=全部&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=全部&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              },
+              {
+                "Name": "宫闺宅斗",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=宫闺宅斗&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=宫闺宅斗&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=宫闺宅斗&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=宫闺宅斗&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=宫闺宅斗&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=宫闺宅斗&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              },
+              {
+                "Name": "经商种田",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=经商种田&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=经商种田&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=经商种田&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=经商种田&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=经商种田&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=经商种田&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              },
+              {
+                "Name": "古典架空",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=古典架空&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=古典架空&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=古典架空&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=古典架空&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=古典架空&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=古典架空&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              },
+              {
+                "Name": "女尊王朝",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=女尊王朝&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=女尊王朝&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=女尊王朝&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=女尊王朝&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=女尊王朝&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=女尊王朝&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              },
+              {
+                "Name": "穿越奇情",
+                "NewKey": [
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=穿越奇情&rank=rank_hot",
+                    "Name": "热搜榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=穿越奇情&rank=rank_good",
+                    "Name": "好评榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=穿越奇情&rank=rank_finis",
+                    "Name": "完结榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=穿越奇情&rank=rank_increase",
+                    "Name": "蹿升榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=穿越奇情&rank=rank_new",
+                    "Name": "新书榜"
+                  },
+                  {
+                    "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=古言&sedCate=穿越奇情&rank=rank_update",
+                    "Name": "勤更榜"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "Name": "幻言",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "系统穿越",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=系统穿越&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=系统穿越&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=系统穿越&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=系统穿越&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=系统穿越&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=系统穿越&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "仙侣奇缘",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=仙侣奇缘&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=仙侣奇缘&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=仙侣奇缘&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=仙侣奇缘&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=仙侣奇缘&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=仙侣奇缘&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "魔法幻情",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=魔法幻情&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=魔法幻情&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=魔法幻情&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=魔法幻情&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=魔法幻情&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=魔法幻情&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "异族恋情",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=异族恋情&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=异族恋情&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=异族恋情&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=异族恋情&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=异族恋情&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=异族恋情&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "星际恋歌",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=星际恋歌&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=星际恋歌&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=星际恋歌&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=星际恋歌&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=星际恋歌&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=幻言&sedCate=星际恋歌&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "耽美",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "GL",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=GL&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=GL&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=GL&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=GL&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=GL&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=GL&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "BL",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=BL&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=BL&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=BL&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=BL&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=BL&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=耽美&sedCate=BL&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "同人",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "动漫同人",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=动漫同人&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=动漫同人&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=动漫同人&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=动漫同人&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=动漫同人&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=动漫同人&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "影视同人",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=影视同人&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=影视同人&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=影视同人&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=影视同人&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=影视同人&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=影视同人&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "武侠同人",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=武侠同人&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=武侠同人&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=武侠同人&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=武侠同人&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=武侠同人&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=武侠同人&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "游戏同人",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=游戏同人&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=游戏同人&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=游戏同人&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=游戏同人&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=游戏同人&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=游戏同人&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "衍生同人",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=衍生同人&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=衍生同人&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=衍生同人&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=衍生同人&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=衍生同人&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=同人&sedCate=衍生同人&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "校园",
+          "SubItems": [
+            {
+              "Name": "全部",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=全部&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "青春校园",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春校园&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春校园&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春校园&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春校园&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春校园&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春校园&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "青春疼痛",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春疼痛&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春疼痛&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春疼痛&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春疼痛&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春疼痛&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春疼痛&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "叛逆成长",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=叛逆成长&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=叛逆成长&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=叛逆成长&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=叛逆成长&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=叛逆成长&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=叛逆成长&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            },
+            {
+              "Name": "青春纯爱",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春纯爱&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春纯爱&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春纯爱&rank=rank_finis",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春纯爱&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春纯爱&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&format=tpl&method=Novelnew.rankList&gender=female&cate=校园&sedCate=青春纯爱&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "sex": "女"
+    }
+  ]
+}
